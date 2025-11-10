@@ -75,7 +75,9 @@ $extensions = @(
     "hlkenndednhfkekhgcdicdfddnkalmdm", #Cookie Editor
     #"ngpampappnmepgilojfohadhhmbhlaek",  # IDM Integration Module
     #"bbobopahenonfdgjgaleledndnnfhooj", # AB Download Manager
-    "ahmpjcflkgiildlgicmcieglgoilbfdp"  # Free Download Manager
+    "ahmpjcflkgiildlgicmcieglgoilbfdp",  # Free Download Manager
+    "jplgfhpmjnbigmhklmmbgecoobifkmpa",  #Proton VPN
+    "hnmpcagpplmpfojmgmnngilcnanddlhb"  #WindScribe VPN
 )
 
 $policyRoots = @(
